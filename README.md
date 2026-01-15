@@ -62,6 +62,7 @@
 | 주제의 깊이 | 사적 vs 공적 | 개인적 고민·일상 공유 빈도 |
 
 ### 🛠 서비스 흐름 (UX Flow)
+<img width="560" height="1300" alt="image" src="https://github.com/user-attachments/assets/469f8d5b-45d8-4765-98ca-85bab2178b0d" />
 
 1. **진입 (Trigger)**  
    - 청첩장 수령 시 AI 분석 팝업 노출
